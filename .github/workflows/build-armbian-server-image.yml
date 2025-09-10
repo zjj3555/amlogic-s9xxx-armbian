@@ -247,7 +247,7 @@ on:
         type: choice
         options:
           - ophub
-          - angel
+          - jiajia
 
 env:
   TZ: Etc/UTC
