@@ -86,7 +86,7 @@ on:
         type: choice
         options:
           - -ophub
-          - -yourname
+          - -jiajia
 
 env:
   TZ: Etc/UTC
