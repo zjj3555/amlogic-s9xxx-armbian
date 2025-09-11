@@ -213,7 +213,7 @@ on:
         default: "zjj3555/amlogic-s9xxx-armbian"
         type: choice
         options:
-          - jiajia6.6
+          - zjj3555/amlogic-s9xxx-armbian
       kernel_usage:
         description: "Set the tags of the stable kernel."
         required: false
